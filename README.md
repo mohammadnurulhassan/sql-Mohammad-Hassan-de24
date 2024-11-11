@@ -1,2 +1,4 @@
 # SQL course using duckdb
 jonathon well come
+
+jag har min sql
