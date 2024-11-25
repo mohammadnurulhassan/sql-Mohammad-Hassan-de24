@@ -1,1 +1,2 @@
-SELECT * FROM data_jobs; 
+DESC;
+SELECT * FROM data_jobs;
