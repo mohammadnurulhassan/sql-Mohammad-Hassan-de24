@@ -169,4 +169,4 @@ cython_debug/
 *.wal
 
 # mac
-.Ds_store
+.Ds_storeLivedemo/02_setup_duckdb/*.duckdb
