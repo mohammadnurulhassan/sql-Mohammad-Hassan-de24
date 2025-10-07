@@ -170,3 +170,4 @@ cython_debug/
 
 # mac
 .Ds_storeLivedemo/02_setup_duckdb/*.duckdb
+Livedemo/02_setup_duckdb/*.duckdb
